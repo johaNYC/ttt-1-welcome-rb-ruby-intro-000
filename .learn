@@ -4,4 +4,3 @@ tags:
 languages:
   - ruby
   
-puts "Welcome to Tic Tac Toe!"
